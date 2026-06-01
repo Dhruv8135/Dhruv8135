@@ -1,79 +1,78 @@
-## Hi there 👋# Hi, I'm Dhruv 👋
+# Hi, I'm Dhruv Kumar 👋
 
-🎓 Final Year CSE Student
-💻 Frontend Developer | Learning Full-Stack Development
-⚡ Building real-world projects using React, APIs, and AI tools
+**AI Engineer & Full Stack Developer** · Final year B.Tech CSE @ Amity University, New Delhi
 
----
-
-## 🚀 About Me
-
-* I build clean, responsive web applications
-* Currently focusing on **React + Backend (Node.js)**
-* Interested in solving real-world problems using tech
-* Actively preparing for **software development roles**
+I build and ship AI-powered products — from RAG pipelines to automation systems that real clients pay for. Currently focused on LLM engineering, full-stack development, and making AI work in production.
 
 ---
 
-## 🛠 Tech Stack
+## 🔧 Tech Stack
 
-**Frontend:**
-HTML, CSS, JavaScript, React
+**AI & LLM:** LangChain · OpenAI API · Groq · RAG Pipelines · Pinecone · Embeddings · n8n · WhatsApp Business API · Gmail API
 
-**Backend (Learning):**
-Node.js, Express
+**Frontend:** React.js · Next.js · Tailwind CSS · JavaScript · HTML · CSS
 
-**Tools:**
-Git, GitHub, VS Code, Vercel
+**Backend & DB:** Node.js · Express.js · MongoDB · REST APIs · MVC Architecture
 
----
+**DevOps & Tools:** Docker · GitHub Actions CI/CD · Postman · Figma · Agile/Scrum
 
-## 📌 Featured Projects
-
-### 🔹 AI Dashboard (React)
-
-* Built an interactive dashboard using React
-* Integrated AI-based features for smarter insights
-* Focused on clean UI and performance
+**Currently Learning:** FastAPI · HuggingFace Transformers · LlamaIndex · Streamlit
 
 ---
 
-### 🔹 Full-Stack Web App (Upcoming)
+## 🚀 Featured Projects
 
-* Building a complete MERN project
-* Features authentication, API integration, and database
-* Goal: production-level deployment
+### 🤖 AI Lead Follow-Up Automation — *Freelance Client Project*
+> n8n · Groq AI · Gmail API · Google Sheets · Google Calendar
+
+Built and sold a 2-version AI automation system for a paying marketing agency client.
+- **v1:** WhatsApp-based follow-up with OpenAI + MongoDB conversational memory
+- **v2:** Upgraded to Gmail + Groq AI for faster, lower-cost B2B outreach
+- Auto-detects email replies → books Google Calendar meetings · sends follow-ups on silence
+- Benchmarked OpenAI vs Groq for cost/latency tradeoffs and migrated accordingly
 
 ---
 
-### 🔹 Responsive UI Projects
+### 🧠 RAG Knowledge Base Pipeline — *In Progress*
+> LangChain · OpenAI API · Pinecone · Python
 
-* Multiple modern UI designs
-* Mobile-first approach
-* Focus on user experience
+Building a production-grade RAG pipeline for semantic search over custom document sets.
+- Document chunking, OpenAI embeddings, and vector similarity retrieval via Pinecone
+- Goal: accurate, grounded LLM responses with minimal hallucination
+
+---
+
+### 📝 Hivon Blog
+> Next.js · React.js · Tailwind CSS · Vercel · GitHub Actions
+
+Fully responsive blog with Next.js SSR/SSG. Deployed on Vercel with a GitHub Actions CI/CD pipeline for continuous deployment.
+
+---
+
+### 🌾 Smart AgriLeaf — *Academic Project*
+> Python · IoT · Machine Learning · ESP32
+
+IoT + ML system for real-time crop monitoring using ESP32 sensors.
+- 90%+ anomaly detection accuracy
+- Reduced manual monitoring effort by 50%
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
----
-
-## 🎯 Current Focus
-
-* Mastering **Data Structures & Algorithms**
-* Building **production-ready full-stack apps**
-* Improving problem-solving & system thinking
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruv8135&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv8135&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: www.linkedin.com/in/dhruv-kumar-609ba4361
-* Email: dhruvkumar1234u@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhruv-kumar-609ba4361)
+- 🌐 [Portfolio](http://dhruv-portfolio-dhu3xt7m6-dhruvkumar1234u-3211s-projects.vercel.app)
+- ✉️ dhruvkumar1234u@gmail.com
 
 ---
 
+⭐ *Always building. Always shipping.*
 ⭐ *Always learning, always building.*
 

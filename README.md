@@ -42,10 +42,10 @@ Building a production-grade RAG pipeline for semantic search over custom documen
 
 ---
 
-### 📝 Hivon Blog
-> Next.js · React.js · Tailwind CSS · Vercel · GitHub Actions
+### 📝 Hivon Blog — *AI-Assisted Build*
+> Next.js · React.js · Tailwind CSS · Vercel · GitHub Actions · Claude AI · Antigravity
 
-Fully responsive blog with Next.js SSR/SSG. Deployed on Vercel with a GitHub Actions CI/CD pipeline for continuous deployment.
+A fully responsive blog built with AI assistance using Claude and Antigravity. Features Next.js SSR/SSG for performance, deployed on Vercel with a GitHub Actions CI/CD pipeline.
 
 ---
 
